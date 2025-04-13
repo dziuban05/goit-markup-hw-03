@@ -1,0 +1,155 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #fff;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+.contact:hover, .contact:focus {
+    color: #404bbf;
+}
+
+.contact {
+color: #434455;
+
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.studio {
+    color: #f4f4fd;
+}
+
+span {
+    color: #2e2f42;
+}
+
+nav {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.navigation {
+    color: #2e2f42;
+}
+
+.navigation:hover, .navigation:focus {
+    color: #404bbf;
+}
+
+address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-style: normal;
+}
+
+.solutions {
+    background-color: #2e2f42;
+}
+
+.solutions-text {
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.button-one {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+
+.button-one:hover, .button-one:focus {
+    background-color: #404BBF;
+}
+
+.headline {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.list {
+    background-color: #FFFFFF;
+}
+
+.sub-headline {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.text-footer {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+
+
