@@ -8,8 +8,30 @@ body {
     color: #434455;
 }
 
+h1, h2, h3, p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+img  {
+    display: block;
+}
+
 .contact:hover, .contact:focus {
     color: #404bbf;
+}
+
+.container {
+    max-width: 1158px;
+    padding-left: 156px;
+    padding-right: 156px;
+    margin-left: 
+    margin-right:
 }
 
 .contact {
@@ -136,10 +158,6 @@ p {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
-
-ul {
-    list-style-type: none;
 }
 
 .footer {
