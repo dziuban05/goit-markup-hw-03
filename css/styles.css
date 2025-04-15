@@ -206,3 +206,17 @@ p {
     padding: 188px 0;
 
 }
+
+.footer {
+    padding: 100px 0;
+
+}
+
+.logo-footer {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.text-footer {
+    max-width: 264px;
+}
