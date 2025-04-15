@@ -47,6 +47,7 @@ color: #434455;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px
 }
 
 .studio {
@@ -68,6 +69,7 @@ nav {
 
 .navigation {
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .navigation:hover, .navigation:focus {
@@ -170,4 +172,27 @@ p {
     letter-spacing: 0.02em;
 }
 
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
 
+.header .container {
+    display: flex;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.div-navigation {
+    display: flex;
+    align-items: center;
+}
+
+.ul-navigation {
+    display: flex;
+    gap: 40px;
+}
+
+.ul-address {
+    display: flex;
+    gap: 40px;
+}
