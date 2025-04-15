@@ -30,8 +30,6 @@ img  {
     max-width: 1158px;
     padding-left: 156px;
     padding-right: 156px;
-    margin-left: 
-    margin-right:
 }
 
 .contact {
@@ -98,6 +96,7 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    max-width: 496px;
 }
 
 .button-one {
@@ -110,6 +109,12 @@ address {
     color: #fff;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 .button-one:hover, .button-one:focus {
@@ -195,4 +200,9 @@ p {
 .ul-address {
     display: flex;
     gap: 40px;
+}
+
+.solutions {
+    padding: 188px 0;
+
 }
