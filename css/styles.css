@@ -213,7 +213,6 @@ address {
 
 .text-team {
 text-align: center;
-
 }
 
 p {
@@ -223,6 +222,32 @@ p {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.portfolio {
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
+.list-portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.list-portfolio-items {
+    width: calc((100% - 48px) / 3);
+}
+
+.portfolio-div {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
+
+.sub-headline-items {
+    margin-bottom: 8px;
 }
 
 .footer {
