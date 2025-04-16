@@ -160,6 +160,7 @@ address {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 
 .text {
@@ -173,10 +174,22 @@ address {
 
 .team {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
-.list {
+.list-team {
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
+}
+
+.list-team-points {
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.div-employee {
+    padding: 32px 0;
 }
 
 .sub-headline {
@@ -186,6 +199,22 @@ address {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.sub-headline-team {
+    text-align: center;
+    margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.text-team {
+text-align: center;
+
 }
 
 p {
